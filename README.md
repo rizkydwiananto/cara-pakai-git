@@ -13,6 +13,10 @@ Cara Pakai GIT pertama kali :
 4. git branch -M main
 5. git remote add origin https://github.com/rizkydwiananto/simklinik.git
 
+Jika terkendala atau ada notifikasi *** Please tell me who you are. Lakukan :
+1. Run git config --global user.email "rizkydwiananto@gmail.com"
+2. git config --global user.name "rizkydwiananto"
+3. Lanjut ke commit ke nomor 3
 
 
 Cara Push beda Branch :
