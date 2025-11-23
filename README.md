@@ -30,6 +30,11 @@ Cara Push beda Branch :
 .. Disarankan berbeda branch untuk push , atau branch sama tidak apa, yang penting ada perubahan / commit ditulis lengkap
 
 
+Cara git Clone :
+1. cd C:\xampp\htdocs
+2. git clone https://github.com/dhabyap/mbg-website.git
+3. 3. cd mbg-website (done)
+
 Cara cek branch :
 git branch
 
